@@ -6,5 +6,6 @@ namespace ConsoleApp8
 {
     class Class1
     {
+          int metod() { return 27; }
     }
 }
